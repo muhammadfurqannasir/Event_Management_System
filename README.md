@@ -66,3 +66,7 @@ Contributions are welcome! Please follow these steps to contribute:
    git push origin feature/YourFeature
    ```
 5. Open a Pull Request.
+
+## Author
+
+- **Muhammad Furqan Nasir**
